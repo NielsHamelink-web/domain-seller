@@ -1,5 +1,5 @@
 # Introductie
-Het doel van dit project is om gemakkelijk aangeschafte domeinnamen te kunnen verkopen en beheren in 1 systeem. Dit doel wilde ik halen binnen ongeveer een week. 
+Het doel van dit project is om gemakkelijk aangeschafte domeinnamen te kunnen verkopen en beheren (vanwegen SEO ranking) in 1 systeem. Dit doel wilde ik halen binnen ongeveer een week. 
 
 # Installatie
 
@@ -27,7 +27,7 @@ Voer `php artisan serve` uit
 
 # Features
 
-* Admin paneel gemaakt met [Voyager](https://voyager.devdojo.com/)
+* Admin paneel gemaakt met [Voyager](https://voyager.devdojo.com/). In te loggen via `/admin` met `admin@admin.com` met als wachtwoord `password`
 * Optie om de content van alle gekoppelde domeinnamen te beheren (klein CMS alsware dus)
   * Nieuwsberichten
   * Pagina's
